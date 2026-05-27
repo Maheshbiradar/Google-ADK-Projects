@@ -1,1 +1,1 @@
-from . import agent
+from .agent import content_pipeline as root_agent
