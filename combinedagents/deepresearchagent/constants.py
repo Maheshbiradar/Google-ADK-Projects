@@ -17,6 +17,7 @@ TOPIC              = "topic"               # seed
 NEWS_RESULTS       = "news_results"        # news accumulator
 ACADEMIC_RESULTS   = "academic_results"    # academic accumulator
 INDUSTRY_RESULTS   = "industry_results"    # industry accumulator
+COVERAGE_SCORE     = "coverage_score"      # written by evaluator_agent
 FINAL_REPORT       = "final_report"        # written by report_agent
 
 # ─────────────────────────────────────────────
